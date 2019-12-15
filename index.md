@@ -5,7 +5,7 @@ title: Axel Garcia
 use-site-title: true
 ---
 
-I'm Axel Garcia. I am a Senior at University of California, Santa Cruz, and am majoring in Computer Science B.S. I expect to graduate on March 2020.
+I'm Axel Garcia. I am a Senior at University of California, Santa Cruz, where I am majoring in Computer Science B.S. I expect to graduate on March 2020.
 
 Things I enjoy:
    -   Building new computers
