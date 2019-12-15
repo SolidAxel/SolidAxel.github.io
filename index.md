@@ -9,7 +9,7 @@ I'm Axel Garcia. I am a Senior at University of California, Santa Cruz, and am m
 
 Things I enjoy:
    -   Building new computers
-   -   [Astronomy](https://axelegarcia.com/projects/)
+   -   [Astronomy](https://axelegarcia.com/astronomy/)
    -   Star Wars
    -   Tech
    -   Lord of the Rings
